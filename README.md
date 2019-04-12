@@ -11,7 +11,7 @@ Change pitch screenshot
 
 <img src="https://github.com/jiangxiaoxuan/pitch-perfect-iosnanodegree/raw/master/screenshots/change-pitch.png" width = 300/>
 
-## How to run the chatbot
+## How to run the PitchPerfect app
 
 1. Clone locally: `https://github.com/jiangxiaoxuan/pitch-perfect-iosnanodegree.git`
 2. Open Xcode
