@@ -1,5 +1,5 @@
 # pitch-perfect-iosnanodegree
-An iOS app that can change pitch of recording voice
+An iOS app that can change pitch of recording voice clip
 
 ## Application Screenshots
 
