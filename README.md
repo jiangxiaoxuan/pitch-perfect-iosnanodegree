@@ -11,6 +11,12 @@ Change pitch screenshot
 
 <img src="https://github.com/jiangxiaoxuan/pitch-perfect-iosnanodegree/raw/master/screenshots/change-pitch.png" width = 300/>
 
+## How to run the chatbot
+
+1. Clone locally: `https://github.com/jiangxiaoxuan/pitch-perfect-iosnanodegree.git`
+2. Open Xcode
+3. Built and wait to see it on simulator 
+
 ## Design
 
 Storyboard and class structure screenshot
